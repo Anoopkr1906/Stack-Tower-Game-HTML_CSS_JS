@@ -21,6 +21,7 @@ boxes[0] = {
     width: 200
 }
 
+// debris is the extra part of the box which is cut when misaligned
 let debris = {
     x: 0,
     width: 0,
